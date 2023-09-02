@@ -92,4 +92,11 @@ The small number for the p-value is far lesser than 0.05, meaning there is a str
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-With assistance from ChatGPT I was able to write some R code to create a box plot. The result of the box plot proves that there is not a big difference in the data, and that the changes in terms of position is minimal.
+$H_O$ = There is no difference in pushups based on position.
+$H_A$ = There is a difference in pushups based on position.
+
+With assistance from ChatGPT, I was able to write some R code to create a box plot. 
+
+Also, by using the Numerical-Cat tool I was able to preform a T Test and a summary of the data (favstats).
+
+The result of the box plot proves and T Test shows that we can reject $H_O$ leaving only the $H_A$
